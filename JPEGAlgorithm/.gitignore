@@ -5,3 +5,7 @@
 # Outputs
 *.jpg
 *.png
+
+!Algorithm.ipynb
+*.ipynb
+*.py
