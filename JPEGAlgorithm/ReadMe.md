@@ -14,7 +14,7 @@ To get started with the project, you need to have the following installed on you
 - Python 3.11.10 or higher
 - The project's dependencies as mentioned above
 
-As you may have noticed I have a Jupyter Notebook for the project, which is the main file for the project. Even though the Notebook is composed of only 1 cell, it allowed me to write and easily test my implementations. In case you do not have Jupyter Notebook installed, you can also copy its contents into a normal .py file and run it using Python.
+As you may have noticed I have a Jupyter Notebook for the project, which is the main file for the project. Even though the Notebook is composed of only 1 cell, it allowed me to write and easily test my implementations. In case you do not have Jupyter Notebook installed, you can also copy its contents into a normal .py file and run it using Python. For your confience I have already copied the contents of my Notebook into a .py file called "Algorithm.py", in case you do not Jupyter Notebook installed. 
 
 ---
 
