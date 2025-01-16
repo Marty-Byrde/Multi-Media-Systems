@@ -6,6 +6,8 @@
 *.jpg
 *.png
 
-!Algorithm.ipynb
 *.ipynb
 *.py
+
+!Algorithm.ipynb
+!Algorithm.py
